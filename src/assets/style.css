@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+body {
+  font-family: cursive;
+  background-color: #F4F2EE;
+}
+
+h1 {
+  font-family: Pacifico, cursive;
+}
+
+.active {
+  background-color: #F29724;
+  color: white;
+  border: none;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+$main-font-family:cursive;
+$primary-font-family:Pacifico, cursive;
+$main-background-color:#F4F2EE;
+$primary-background-color:#F29724;
+
+
+body{
+    font-family: $main-font-family;
+    background-color: $main-background-color;
+}
+
+
+h1{
+    font-family: $primary-font-family;
+}
+
+
+.active{
+    background-color: $primary-background-color;
+    color: white;
+    border:none;
+}
